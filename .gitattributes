@@ -1,0 +1,4 @@
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.hlsl text eol=crlf
+
