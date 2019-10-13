@@ -8,7 +8,7 @@
 Visual Studio 2017 の Ver 15.8.2 以降でシェーダープログラムのテンプレートにバグが入り込んでいます。  
 文中の内容を試す場合には、次のページを参考にして HLSL シェーダープログラムをテンプレートから正しく作成できるようにする必要があります。
 
-[VS2017 HLSLシェーダーテンプレートの直し方](http://blog.techlab-xe.net/archives/5968)
+[VS2017 HLSLシェーダーテンプレートの直し方](https://blog.techlab-xe.net/vs2017-mismatch-hlsl-templete/)
 
 ## 不具合など
 
